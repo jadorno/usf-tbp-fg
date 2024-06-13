@@ -3,5 +3,30 @@ build
 ._*
 .DS_Store
 /data
-assets/albums
-assets/img
+
+assets/img/officers-2017
+assets/img/officers-2018
+assets/img/officers-2019
+assets/img/officers-2020
+assets/img/banner.jpg
+assets/img/banner-original.jpg
+
+# assets/img/close.png
+# assets/img/loading.gif
+# assets/img/next.png
+# assets/img/prev.png
+
+assets/albums/1973/
+assets/albums/1974/
+assets/albums/1999/
+assets/albums/2001/
+assets/albums/2002/
+assets/albums/2003/
+assets/albums/2004/
+assets/albums/2005/
+assets/albums/2006/
+assets/albums/2016/
+assets/albums/2017/
+assets/albums/2018/
+assets/albums/dirs.txt
+assets/albums/fils.txt
