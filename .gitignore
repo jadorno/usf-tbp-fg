@@ -1,0 +1,7 @@
+.jekyll-cache
+build
+._*
+.DS_Store
+/data
+assets/albums
+assets/img

@@ -1,0 +1,11 @@
+host: 0.0.0.0
+destination: /workspaces/usf-tbp-fg/build
+include: ["_pages"]
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: default2
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile','Dockerfile','data']
+keep_files: [archive]
