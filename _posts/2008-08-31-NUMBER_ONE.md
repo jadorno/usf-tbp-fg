@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /news/:year/:month/:day/:title:output_ext
 author: Adam Roetter
 title: Number One in the nation!
 ---
