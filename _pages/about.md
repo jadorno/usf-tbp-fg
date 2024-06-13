@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /about/
+permalink: /about.html
 title: About | TBP-FG
 ---
 
